@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-este es un proyecto de prueba que etamos socializando en el salon A2405
+este es un proyecto de prueba que estamos socializando en el salon A2405 
 
 ## How to test
 
